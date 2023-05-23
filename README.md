@@ -1,6 +1,6 @@
 # GOOGLE_DOC_CLONE
-# SkillSet - Reactjs, CSS
-# Check the demo hosted on Netlify - https://friendly-hamster-e98382.netlify.app
+ SkillSet - Reactjs, CSS
+ Check the demo hosted on Netlify - https://friendly-hamster-e98382.netlify.app
 
 ## Instructions
 
