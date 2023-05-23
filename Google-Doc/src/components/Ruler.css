@@ -1,0 +1,26 @@
+.ruler-container {
+    margin-bottom: -15px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ruler-lines {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 11%;
+}
+.ruler-line {
+    height: 10px;
+    width: 1px;
+    background-color: #000;
+}
+.ruler-nums {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 54%;
+    color:black;
+    margin: auto;
+}
